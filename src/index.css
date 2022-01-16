@@ -12,8 +12,8 @@ code {
     monospace;
 }
 nav{
-  margin-left: 1rem;
-  padding: 0 1rem;
+  
+  padding: 0 2rem;
 }
 .content{
   min-height: calc(100vh - 70px - 70px);
@@ -33,4 +33,7 @@ label:not(:last-child){
 }
 a.grey-text.text-lighten-4.right{
  margin-right: 1rem;
+}
+footer{
+  padding:20px;
 }
